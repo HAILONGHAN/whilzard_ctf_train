@@ -1,0 +1,3 @@
+﻿  test.cpp
+e:\workspace\documents\ctf\demo\simplegame\simplegame\simplegame\test\test\test.cpp(13): warning C4101: 'v2': unreferenced local variable
+  test.vcxproj -> E:\WorkSpace\documents\CTF\demo\simplegame\SimpleGame\SimpleGame\test\Debug\test.exe

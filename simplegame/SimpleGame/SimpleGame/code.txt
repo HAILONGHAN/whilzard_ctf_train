@@ -1,0 +1,57 @@
+dssdwasawawaaswddw
+abcdefghijklmnopqrst
+
+0 0   0 0   0 0   0 0   
+4 0   4 0   4 0   4 0   
+8 0   8 0   8 3   8 3   
+12 0   12 0   12 0   12 0   
+16 0   16 0   16 0   16 0   
+20 0   20 2   20 0   20 0   
+24 0   24 0   24 0   24 0   
+28 0   28 0   28 0   28 0   
+32 0   32 0   32 0   32 0   
+
+f  f  f  f  f  0  0  f  f
+f  0  0  0  0  f  0  f  f
+f  0  f  f  f  f  0  0  f
+0  0  0  0  f  f  f  0  f
+0  f  0  0  f  0  f  f  f
+f  0  f  f  0  0  f  0  f
+f  0  0  f  0  0  0  0  f
+f  f  0  0  0  0  f  0  f
+f  f  f  f  f  f  f  f  f
+
+1k=2 \1 2\2 \ 
+2k=1\1\1\1
+3k= \ 1\0  1 \0
+4k=2 \ 2  \ 1 2\
+5k= \ 12  \12\
+6k= \ 0123  \ \
+7k=1 \ 12  \2   \ 
+8k= \ 2  \2\
+9k=12 \ 2  \2
+
+dssdwasawawaaswddw
+col,row  6,6   5,5  1,2  3,6   2,3    2,1    1,6   6,2   5,1 
+c,r
+5,5 d c94  s    r95
+4,4 s  r95 d   c94
+0,1 w  r99 a   c100
+2,5 s  r95 a   c100
+1,2 w  r99 a   c100
+1,0 w  r99 a   c100
+0,5 a c100  s   r95
+5,1 w  r99 d    c94
+4,0 d c94  w    r99
+dcsd scdb wbad sdab waac wcac adsd wbdc dbwc
+dcsdscdbwbadsdabwaacwcacadsdwbdcdbwc
+   
+0  0  9  0  0  9  9  0  0  0  9  0  0  0  0  0
+0  6  0  0  0  6  0  0  0  6  0  0  0  6  0  0
+0  0  0  0  0  3  0  0  3  3  0  0  3  0  0  0
+0  0  8  0  0  0  8  0  0  8  8  0  0  0  0  0
+0  0  0  0  0  5  5  0  0  5  5  0  0  0  0  0
+0  0  0  0  2  2  2  2  0  0  0  0  0  0  0  0
+0  7  0  0  0  7  7  0  0  0  7  0  0  0  0  0
+0  0  0  0  0  0  4  0  0  0  4  0  0  0  0  0
+0  1  1  0  0  0  1  0  0  0  1  0  0  0  0  0

@@ -1,0 +1,43 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+__Auther__ = 'L1B0'
+
+from libnum import n2s,s2n
+import gmpy2
+from z3 import *
+
+e=33
+p=954147044541943113765937481348204894039415441663225351583
+q=1343515508931258195091391392918235484113725429556823769736956904341937
+N=1281911352143024584350260661717626471379161729718150347407768402523661151300375453147248077816866067782874939959917466076236271
+cipher=1197113886220503890500226974976842298261128760760143948519182172387778320755699233509310951033610880543097406233423486693032107
+
+m = (p-1)*(q-1)
+#print 'm = {}'.format(m)
+
+#(flag**3)**11 mod N == cipher
+#flag1 = flag**3
+
+e1 = 11
+m1 = m
+d1 = gmpy2.invert(e1,m1) 
+#print d1
+
+flag1 = pow(cipher,d1,N)
+#print pow(flag1,e1,N) == cipher
+print flag1
+
+#e=3
+n = N
+c = flag1
+i = 0
+while True:
+    if gmpy2.iroot(c + i * n, 3)[1] == True:
+        print "Success!"
+        print gmpy2.iroot(c + i * n, 3)
+        break
+    i += 1
+
+print n2s(8663725283690131533285369823529813978998141)
+#flag = n2s(pow(cipher,d,N))
+#print flag

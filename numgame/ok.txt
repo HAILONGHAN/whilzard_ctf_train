@@ -1,0 +1,436 @@
+A8:                     0
+debug009:006AFDA9 db    0
+debug009:006AFDAA db    0
+debug009:006AFDAB db    0
+
+debug009:006AFDAC db    0
+debug009:006AFDAD db    0
+debug009:006AFDAE db    0
+debug009:006AFDAF db    0
+
+debug009:006AFDB0 db    7
+debug009:006AFDB1 db    0
+debug009:006AFDB2 db    0
+debug009:006AFDB3 db    0
+
+debug009:006AFDB4 db    5
+debug009:006AFDB5 db    0
+debug009:006AFDB6 db    0
+debug009:006AFDB7 db    0
+
+debug009:006AFDB8 db    0
+debug009:006AFDB9 db    0
+debug009:006AFDBA db    0
+debug009:006AFDBB db    0
+
+debug009:006AFDBC db    0
+debug009:006AFDBD db    0
+debug009:006AFDBE db    0
+debug009:006AFDBF db    0
+
+debug009:006AFDC0 db    0
+debug009:006AFDC1 db    0
+debug009:006AFDC2 db    0
+debug009:006AFDC3 db    0
+
+debug009:006AFDC4 db    6
+debug009:006AFDC5 db    0
+debug009:006AFDC6 db    0
+debug009:006AFDC7 db    0
+
+debug009:006AFDC8 db    0
+debug009:006AFDC9 db    0
+debug009:006AFDCA db    0
+debug009:006AFDCB db    0
+
+debug009:006AFDCC db    0
+debug009:006AFDCD db    0
+debug009:006AFDCE db    0
+debug009:006AFDCF db    0
+
+debug009:006AFDD0 db    2
+debug009:006AFDD1 db    0
+debug009:006AFDD2 db    0
+debug009:006AFDD3 db    0
+
+debug009:006AFDD4 db    0
+debug009:006AFDD5 db    0
+debug009:006AFDD6 db    0
+debug009:006AFDD7 db    0
+
+debug009:006AFDD8 db    0
+debug009:006AFDD9 db    0
+debug009:006AFDDA db    0
+debug009:006AFDDB db    0
+
+debug009:006AFDDC db    1
+debug009:006AFDDD db    0
+debug009:006AFDDE db    0
+debug009:006AFDDF db    0
+
+debug009:006AFDE0 db    0
+debug009:006AFDE1 db    0
+debug009:006AFDE2 db    0
+debug009:006AFDE3 db    0
+
+debug009:006AFDE4 db    0
+debug009:006AFDE5 db    0
+debug009:006AFDE6 db    0
+debug009:006AFDE7 db    0
+
+debug009:006AFDE8 db    0
+debug009:006AFDE9 db    0
+debug009:006AFDEA db    0
+debug009:006AFDEB db    0
+
+debug009:006AFDEC db    7
+debug009:006AFDED db    0
+debug009:006AFDEE db    0
+debug009:006AFDEF db    0
+
+debug009:006AFDF0 db    9
+debug009:006AFDF1 db    0
+debug009:006AFDF2 db    0
+debug009:006AFDF3 db    0
+
+debug009:006AFDF4 db    0
+debug009:006AFDF5 db    0
+debug009:006AFDF6 db    0
+debug009:006AFDF7 db    0
+
+debug009:006AFDF8 db    0
+debug009:006AFDF9 db    0
+debug009:006AFDFA db    0
+debug009:006AFDFB db    0
+
+debug009:006AFDFC db    0
+debug009:006AFDFD db    0
+debug009:006AFDFE db    0
+debug009:006AFDFF db    0
+
+debug009:006AFE00 db    3
+debug009:006AFE01 db    0
+debug009:006AFE02 db    0
+debug009:006AFE03 db    0
+
+debug009:006AFE04 db    0
+debug009:006AFE05 db    0
+debug009:006AFE06 db    0
+debug009:006AFE07 db    0
+
+debug009:006AFE08 db    4
+debug009:006AFE09 db    0
+debug009:006AFE0A db    0
+debug009:006AFE0B db    0
+
+debug009:006AFE0C db    0
+debug009:006AFE0D db    0
+debug009:006AFE0E db    0
+debug009:006AFE0F db    0
+
+debug009:006AFE10 db    0
+debug009:006AFE11 db    0
+debug009:006AFE12 db    0
+debug009:006AFE13 db    0
+
+debug009:006AFE14 db    2
+debug009:006AFE15 db    0
+debug009:006AFE16 db    0
+debug009:006AFE17 db    0
+
+debug009:006AFE18 db    0
+debug009:006AFE19 db    0
+debug009:006AFE1A db    0
+debug009:006AFE1B db    0
+debug009:006AFE1C db    1
+debug009:006AFE1D db    0
+debug009:006AFE1E db    0
+debug009:006AFE1F db    0
+
+debug009:006AFE20 db    0
+debug009:006AFE21 db    0
+debug009:006AFE22 db    0
+debug009:006AFE23 db    0
+
+debug009:006AFE24 db    0
+debug009:006AFE25 db    0
+debug009:006AFE26 db    0
+debug009:006AFE27 db    0
+
+debug009:006AFE28 db    0
+debug009:006AFE29 db    0
+debug009:006AFE2A db    0
+debug009:006AFE2B db    0
+
+debug009:006AFE2C db    0
+debug009:006AFE2D db    0
+debug009:006AFE2E db    0
+debug009:006AFE2F db    0
+
+debug009:006AFE30 db    0
+debug009:006AFE31 db    0
+debug009:006AFE32 db    0
+debug009:006AFE33 db    0
+
+debug009:006AFE34 db    0
+debug009:006AFE35 db    0
+debug009:006AFE36 db    0
+debug009:006AFE37 db    0
+
+debug009:006AFE38 db    0
+debug009:006AFE39 db    0
+debug009:006AFE3A db    0
+debug009:006AFE3B db    0
+
+debug009:006AFE3C db    3
+debug009:006AFE3D db    0
+debug009:006AFE3E db    0
+debug009:006AFE3F db    0
+
+debug009:006AFE40 db    0
+debug009:006AFE41 db    0
+debug009:006AFE42 db    0
+debug009:006AFE43 db    0
+
+debug009:006AFE44 db    1
+debug009:006AFE45 db    0
+debug009:006AFE46 db    0
+debug009:006AFE47 db    0
+
+debug009:006AFE48 db    0
+debug009:006AFE49 db    0
+debug009:006AFE4A db    0
+debug009:006AFE4B db    0
+
+debug009:006AFE4C db    0
+debug009:006AFE4D db    0
+debug009:006AFE4E db    0
+debug009:006AFE4F db    0
+
+debug009:006AFE50 db    0
+debug009:006AFE51 db    0
+debug009:006AFE52 db    0
+debug009:006AFE53 db    0
+
+debug009:006AFE54 db    0
+debug009:006AFE55 db    0
+debug009:006AFE56 db    0
+debug009:006AFE57 db    0
+
+debug009:006AFE58 db    5
+debug009:006AFE59 db    0
+debug009:006AFE5A db    0
+debug009:006AFE5B db    0
+
+debug009:006AFE5C db    0
+debug009:006AFE5D db    0
+debug009:006AFE5E db    0
+debug009:006AFE5F db    0
+
+debug009:006AFE60 db    0
+debug009:006AFE61 db    0
+debug009:006AFE62 db    0
+debug009:006AFE63 db    0
+
+debug009:006AFE64 db    0
+debug009:006AFE65 db    0
+debug009:006AFE66 db    0
+debug009:006AFE67 db    0
+
+debug009:006AFE68 db    0
+debug009:006AFE69 db    0
+debug009:006AFE6A db    0
+debug009:006AFE6B db    0
+
+debug009:006AFE6C db    0
+debug009:006AFE6D db    0
+debug009:006AFE6E db    0
+debug009:006AFE6F db    0
+
+debug009:006AFE70 db    0
+debug009:006AFE71 db    0
+debug009:006AFE72 db    0
+debug009:006AFE73 db    0
+
+debug009:006AFE74 db    7
+debug009:006AFE75 db    0
+debug009:006AFE76 db    0
+debug009:006AFE77 db    0
+debug009:006AFE78 db    1
+debug009:006AFE79 db    0
+debug009:006AFE7A db    0
+debug009:006AFE7B db    0
+
+debug009:006AFE7C db    0
+debug009:006AFE7D db    0
+debug009:006AFE7E db    0
+debug009:006AFE7F db    0
+debug009:006AFE80 db    4
+debug009:006AFE81 db    0
+debug009:006AFE82 db    0
+debug009:006AFE83 db    0
+
+debug009:006AFE84 db    0
+debug009:006AFE85 db    0
+debug009:006AFE86 db    0
+debug009:006AFE87 db    0
+
+debug009:006AFE88 db    0
+debug009:006AFE89 db    0
+debug009:006AFE8A db    0
+debug009:006AFE8B db    0
+
+debug009:006AFE8C db    0
+debug009:006AFE8D db    0
+debug009:006AFE8E db    0
+debug009:006AFE8F db    0
+
+debug009:006AFE90 db    0
+debug009:006AFE91 db    0
+debug009:006AFE92 db    0
+debug009:006AFE93 db    0
+
+debug009:006AFE94 db    8
+debug009:006AFE95 db    0
+debug009:006AFE96 db    0
+debug009:006AFE97 db    0
+debug009:006AFE98 db    2
+debug009:006AFE99 db    0
+debug009:006AFE9A db    0
+debug009:006AFE9B db    0
+
+debug009:006AFE9C db    0
+debug009:006AFE9D db    0
+debug009:006AFE9E db    0
+debug009:006AFE9F db    0
+
+debug009:006AFEA0 db    0
+debug009:006AFEA1 db    0
+debug009:006AFEA2 db    0
+debug009:006AFEA3 db    0
+
+debug009:006AFEA4 db    0
+debug009:006AFEA5 db    0
+debug009:006AFEA6 db    0
+debug009:006AFEA7 db    0
+
+debug009:006AFEA8 db    0
+debug009:006AFEA9 db    0
+debug009:006AFEAA db    0
+debug009:006AFEAB db    0
+
+debug009:006AFEAC db    5
+debug009:006AFEAD db    0
+debug009:006AFEAE db    0
+debug009:006AFEAF db    0
+debug009:006AFEB0 db    9
+debug009:006AFEB1 db    0
+debug009:006AFEB2 db    0
+debug009:006AFEB3 db    0
+
+debug009:006AFEB4 db    0
+debug009:006AFEB5 db    0
+debug009:006AFEB6 db    0
+debug009:006AFEB7 db    0
+
+debug009:006AFEB8 db    0
+debug009:006AFEB9 db    0
+debug009:006AFEBA db    0
+debug009:006AFEBB db    0
+
+debug009:006AFEBC db    0
+debug009:006AFEBD db    0
+debug009:006AFEBE db    0
+debug009:006AFEBF db    0
+
+debug009:006AFEC0 db    8
+debug009:006AFEC1 db    0
+debug009:006AFEC2 db    0
+debug009:006AFEC3 db    0
+
+debug009:006AFEC4 db    0
+debug009:006AFEC5 db    0
+debug009:006AFEC6 db    0
+debug009:006AFEC7 db    0
+
+debug009:006AFEC8 db    0
+debug009:006AFEC9 db    0
+debug009:006AFECA db    0
+debug009:006AFECB db    0
+
+debug009:006AFECC db    8
+debug009:006AFECD db    0
+debug009:006AFECE db    0
+debug009:006AFECF db    0
+
+debug009:006AFED0 db    0
+debug009:006AFED1 db    0
+debug009:006AFED2 db    0
+debug009:006AFED3 db    0
+
+debug009:006AFED4 db    0
+debug009:006AFED5 db    0
+debug009:006AFED6 db    0
+debug009:006AFED7 db    0
+
+debug009:006AFED8 db    0
+debug009:006AFED9 db    0
+debug009:006AFEDA db    0
+debug009:006AFEDB db    0
+
+debug009:006AFEDC db    1
+debug009:006AFEDD db    0
+debug009:006AFEDE db    0
+debug009:006AFEDF db    0
+
+debug009:006AFEE0 db    0
+debug009:006AFEE1 db    0
+debug009:006AFEE2 db    0
+debug009:006AFEE3 db    0
+
+debug009:006AFEE4 db    0
+debug009:006AFEE5 db    0
+debug009:006AFEE6 db    0
+debug009:006AFEE7 db    0
+
+debug009:006AFEE8 db    3
+debug009:006AFEE9 db    0
+debug009:006AFEEA db    0
+debug009:006AFEEB db    0
+debug009:006AFEEC db    4
+
+
+
+
+
+
+
+
+
+340089102
+508406930
+016207058
+060875349
+709064820
+854392006
+093650071
+170023604
+602740590
+
+340089102508406930016207058060875349709064820854392006093650071170023604602740590
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
